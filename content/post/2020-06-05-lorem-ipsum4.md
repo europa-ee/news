@@ -1,13 +1,13 @@
 ---
-author: Mauricio Vargas
+author: Student 4
 categories:
-- Statistics
-date: "2015-07-24"
+- Entertainment
+date: "2015-07-26"
 tags:
 - Markdown
 - Lorem Ipsum
-thumbnail: https://db.yihui.name/imgur/4rHon0B.png
-title: Jeff Leek always obtains unbiased estimators
+thumbnail: https://db.yihui.name/imgur/2R9iyPv.jpg
+title: Entertainment article title here
 ---
 
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
