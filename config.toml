@@ -38,7 +38,7 @@ paginate = 6
     description = "The Official Newspaper of Class 3EE"
     summary_length = 300
     github_edit = ""
-    footer = ""
+    footer = "&copy; [Europa School UK Class 3EE](https://www.europa-ee.org.uk) 2020"
 
 [params.text]
     back = "&larr; Back to Home"
