@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-gb"
-title = "3EE News"
+title = "The Europa Times"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
