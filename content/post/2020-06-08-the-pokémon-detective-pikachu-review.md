@@ -9,6 +9,7 @@ tags:
      - Pokémon
      - Pikachu
      - movies
+thumbnail: https://upload.wikimedia.org/wikipedia/en/e/e5/Pokémon_Detective_Pikachu_teaser_poster.jpg
 ---
 
 The film is called **Pokémon Detective Pikachu** directed by Rob Letterman and starring Pokémon character Pikachu.
