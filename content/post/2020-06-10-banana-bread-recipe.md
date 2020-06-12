@@ -1,6 +1,6 @@
 ---
 title: Banana bread recipe
-author: ~
+author: Kavarenah Ariana-Guevarra
 date: '2020-06-10'
 slug: banana-bread-recipe
 categories:
