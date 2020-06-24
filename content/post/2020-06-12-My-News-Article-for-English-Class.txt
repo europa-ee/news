@@ -1,0 +1,11 @@
+﻿---
+title: My news article for English class
+author: Ernest Guevarra
+date: “2020-06-12”
+---
+
+
+This is my article for *English Class*. I wrote it because it is part of the school work that Mrs Trevitt, my English teacher, assigned for my class to do. After writing this article, I will submit it through **Google Classroom**. If I like, I can also share this article to Mrs Trevitt and the rest of my classmates on a shared **Google Drive** folder. 
+
+
+> I like writing articles like this. I think it is a lot of fun.
