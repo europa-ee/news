@@ -5,7 +5,8 @@ date: 2020-06-24
 categories:
   - Headlines
 ---
-![](figures/Alejandro.jpg)
+
+![](images/Alejandro.jpg)
 
 Last night, on May 31st, a sausage dog was re-discovered after he went missing for days.
 
