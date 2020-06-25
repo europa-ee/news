@@ -2,6 +2,8 @@
 title: Pork chop rescues puppy
 author: Thomas Anderson
 date: 2020-06-24
+categories:
+  - Headlines
 ---
 ![](figures/Alejandro.jpg)
 
