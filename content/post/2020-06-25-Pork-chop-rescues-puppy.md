@@ -6,7 +6,7 @@ categories:
   - Headlines
 ---
 
-![](images/Alejandro.jpg)
+![](../figures/Alejandro.jpg)
 
 Last night, on May 31st, a sausage dog was re-discovered after he went missing for days.
 
