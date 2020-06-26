@@ -19,14 +19,22 @@ I give it **4.9 out of five** because you can not put it down.
 
 ## Read on for an interview with Zac Reed (the six year-old):
 
->Me: Do you like the Ickabog?
-Zac: Yes, but not when someone is killed.
-Me: What is good about the Ickabog? 
-Zac: It is like a fairy tale.
-Me: Who would you recommend it for?
-Zac: Four to five year-olds.
-Me: Do you not feel that they would be scared?
-Zac: No, I think it would be alright for them.
-Me: WARNING do not listen to Zac’s last answer.
+> **Me:** Do you like the Ickabog?
+
+> **Zac:** Yes, but not when someone is killed.
+
+> **Me:** What is good about the Ickabog? 
+
+> **Zac:** It is like a fairy tale.
+
+> **Me:** Who would you recommend it for?
+
+> **Zac:** Four to five year-olds.
+
+> **Me:** Do you not feel that they would be scared?
+
+> **Zac:** No, I think it would be alright for them.
+
+> **Me:** WARNING do not listen to Zac’s last answer.
 
 
