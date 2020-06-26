@@ -4,7 +4,7 @@ author: Tristan R
 date: 2020-06-09
 ---
 
-![](./images/brawlstars.png)
+![](images/brawlstars.png)
 
 The name of this video game is **Brawl Stars**. The aim of the game is to **defeat/kill** your opponents. You move your character around by moving a circle on your screen and the **more damage you do your special attack gets loaded** and it does more damage. 
 
