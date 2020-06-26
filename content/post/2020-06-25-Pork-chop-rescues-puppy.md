@@ -4,9 +4,12 @@ author: Alejandro
 date: 2020-06-24
 categories:
   - Headlines
+thumbnail: figures/Alejandro.jpg
 ---
 
-![](figures/Alejandro.jpg)
+
+
+https://github.com/europa-ee/news/blob/master/static/figures/Alejandro.jpg
 
 Last night, on May 31st, a sausage dog was re-discovered after he went missing for days.
 
