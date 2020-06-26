@@ -7,7 +7,7 @@ categories:
 thumbnail: figures/brawlstars.png
 ---
 
-![](https://github.com/europa-ee/news/blob/master/static/figures/brawlstars.png)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/brawlstars.png)
 
 The name of this video game is **Brawl Stars**. The aim of the game is to **defeat/kill** your opponents. You move your character around by moving a circle on your screen and the **more damage you do your special attack gets loaded** and it does more damage. 
 
