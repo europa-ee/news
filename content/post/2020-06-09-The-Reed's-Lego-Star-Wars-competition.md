@@ -4,10 +4,10 @@ author: Tristan.R
 date: 2020-06-09
 categories:
   - Entertainment
-thumbnail: figures/starwars.jpg
+thumbnail: figures/starwars.png
 ---
 
-![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/starwars.jpg)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/starwars.png)
 
 ***The Reeds are designing a Lego speeder, transporter, blaster, minifigure or robot***. There is no prize but the feeling of glory. The judge is Tristan Reed. Here are his comments: 
 
