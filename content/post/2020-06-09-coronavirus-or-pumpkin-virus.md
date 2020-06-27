@@ -12,8 +12,7 @@ tags:
 thumbnail: figures/pumpkin_virus.png
 ---
 
-![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/pumpkin_virus.png)
-
+<img src="https://raw.githubusercontent.com/europa-ee/news/master/static/figures/pumpkin_virus.png" width="500px" />
 
 Scientists have now confirmed that the coronavirus is improperly named. The proper name scientists say is the **pumpkin virus**. The pumpkin virus is a very old virus that has not been identified in a long time.
 
