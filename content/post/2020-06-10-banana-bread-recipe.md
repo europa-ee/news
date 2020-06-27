@@ -13,7 +13,7 @@ thumbnail: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_8
 ![](https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_85720_16x9.jpg)
 
 
-**Ingredients**
+## Ingredients
 
 * 285 grams / 10 oz plain flour
 
@@ -33,8 +33,9 @@ thumbnail: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_8
 
 * 1 tsp vanilla extract
 
+<hr>
 
-**Method**
+## Method
 
 1. Grab a piece of butter. Grab the sugar and cream them together.
 
@@ -50,3 +51,5 @@ thumbnail: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_8
 
 7. Once the bread is cooked, take out of the oven and cool completely.
 
+<br>
+<br>

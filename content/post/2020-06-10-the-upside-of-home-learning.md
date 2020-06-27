@@ -12,7 +12,9 @@ thumbnail: figures/homeschool2.png
 
 There are a lot of good things about home learning. Do you want me to tell you? Ok, so you say yes so here you are:
 
-Firstly, you don't have to wake up at a certain time.
+<img src="https://raw.githubusercontent.com/europa-ee/news/master/static/figures/homeschool1.png" width="300px" align="left" /> **Firstly**, you don't have to wake up at a certain time.
+
+
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/homeschool1.png)
 
@@ -29,3 +31,6 @@ Fourthly, you can have prolonged breaks because your parents are busy.
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/homeschool4.png)
 
 Finally, you can play with whatever you like because at home you have all of these cool toys. Am I right?
+
+<br>
+<br>

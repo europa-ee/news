@@ -25,19 +25,5 @@ And he said he wouldn’t come if people were calling his name because he always
 
 Lloyd and everyone were happy. They had a welcome back party for Chris and are now happy again.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>

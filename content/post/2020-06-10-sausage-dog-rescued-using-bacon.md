@@ -25,3 +25,5 @@ To Mr and Mrs Shinyshoes amazement, Floyd returned home to them after 3 days. Fl
 
 Mr and Mrs Shinyshoes really want to get a tracking device to put on Floyd’s collar, so if an unfortunate event like this happened again, they would be able to find Floyd quickly.
 
+<br>
+<br>
