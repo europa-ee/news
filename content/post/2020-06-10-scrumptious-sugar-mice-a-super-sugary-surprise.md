@@ -1,6 +1,6 @@
 ---
 title: Scrumptious sugar mice, a super sugary surprise
-author: ~
+author: Amelie
 date: '2020-06-10'
 slug: scrumptious-sugar-mice-a-super-sugary-surprise
 categories:

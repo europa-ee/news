@@ -7,10 +7,10 @@ categories:
   - Education
 tags:
   - home learning
-thumbnail: https://webcomicms.net/sites/default/files/clipart/157007/home-school-cliparts-157007-7035764.jpg
+thumbnail: http://www.stbrigidspsballymoney.com/assets/general/2018-LEARNING-AT-HOME/_floatImage/HOME-SCHOOL.JPG
 ---
 
-![](https://webcomicms.net/sites/default/files/clipart/157007/home-school-cliparts-157007-7035764.jpg)
+![](http://www.stbrigidspsballymoney.com/assets/general/2018-LEARNING-AT-HOME/_floatImage/HOME-SCHOOL.JPG)
 
 In March 2020, the UK government took the bold decision to close all schools in the country, so that people will stay at home and hopefully not many more people will get infected with COVID-19. It has now been two months and they haven't found a vaccine. 
 
