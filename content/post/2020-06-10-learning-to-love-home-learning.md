@@ -7,10 +7,10 @@ categories:
   - Education
 tags:
   - home learning
-thumbnail: https://thumbs.dreamstime.com/z/concept-homeschooling-emblem-home-schooling-large-families-vector-illustration-concept-home-schooling-134560052.jpg
+thumbnail: https://media.npr.org/assets/img/2020/03/26/lajohnson-homeschooling-promo_slide-0b66e4c2d20d5c8b0d48f3614a5db705f15be086-s800-c85.jpg
 ---
 
-![](https://thumbs.dreamstime.com/z/concept-homeschooling-emblem-home-schooling-large-families-vector-illustration-concept-home-schooling-134560052.jpg)
+![](https://media.npr.org/assets/img/2020/03/26/lajohnson-homeschooling-promo_slide-0b66e4c2d20d5c8b0d48f3614a5db705f15be086-s800-c85.jpg)
 
 In March 2020, the UK government took the bold decision to close all schools in the country, so that people will stay at home and hopefully not many more people will get infected with COVID-19. It has now been two months and they haven't found a vaccine. 
 
