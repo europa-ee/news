@@ -20,3 +20,6 @@ Scientists have now confirmed that the coronavirus is improperly named. The prop
 The effects of the pumpkin virus are: lightheadedness, nausea, wriggly limbs, a pang for raw steaks and if you are ill with something other than pummpkin virus you will get a pumpkin head. The only cure is very rare - it is very rare because the cure is none!
 
 People have to be very lucky if they get over the pumpkin virus. As a reassurance to parents, this virus does not affect kids.
+
+<br>
+<br>

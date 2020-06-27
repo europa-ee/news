@@ -22,18 +22,16 @@ I give it **4/5** out of **5/5**.
 
 We have an exclusive interview with **Zac Reed**, a watcher of **Saturday Mash-up**: 
 
-> **Me:** Do you like Saturday Mash-up? 
-
-> **Zac:** Yes, because they put TV shows in TV shows.
-
-> **Me:** Were you surprised that they did a lockdown series?
-
-> **Zac:** I was surprised when I first saw it but then I got you used to it.
-
-> **Me:** What has been YOUR favourite part?
-
-> **Zac:** Celebrity Cannonball (if you do not know what Celebrity Cannonball is it is where celebrities get asked questions about them and they get virtually shot out of a cannon).
+> **Me:** Do you like Saturday Mash-up?    
+> **Zac:** Yes, because they put TV shows in TV shows.    
+> **Me:** Were you surprised that they did a lockdown series?    
+> **Zac:** I was surprised when I first saw it but then I got you used to it.    
+> **Me:** What has been YOUR favourite part?    
+> **Zac:** Celebrity Cannonball (if you do not know what Celebrity Cannonball is it is where celebrities get asked questions about them and they get virtually shot out of a cannon).    
 
 That is all from Zac.
 
 https://images.app.goo.gl/5ko1FWiBMRcz1qy59
+
+<br>
+<br>

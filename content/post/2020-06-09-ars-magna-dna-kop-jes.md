@@ -79,26 +79,22 @@ thumbnail: figures/harry-potter-picture2.jpg
 
 ### Harry Potter jokes:
 
-> Where does Professor Quirrell shop?	
-
+> Where does Professor Quirrell shop?	   
 > Turban outfitters!
 
 <br>
 
-> What do you call a Headmaster of Hogwarts who does not speak clearly?
-
+> What do you call a Headmaster of Hogwarts who does not speak clearly?    
 > Mumbledore!
 
 <br>
 
-> What do you call a Headmaster of Hogwarts who keeps tripping on his cloak?
-
+> What do you call a Headmaster of Hogwarts who keeps tripping on his cloak?    
 > Stumbledore!
 
 <br>
 
-> What do you call a Hogwarts teacher with a bad attitude?
-  
+> What do you call a Hogwarts teacher with a bad attitude?    
 > Moody!
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/harry-potter-picture2.jpg)
@@ -107,16 +103,16 @@ thumbnail: figures/harry-potter-picture2.jpg
 
 ### Genius jokes:
 
-> What is the fastest way to count cows?
-
+> What is the fastest way to count cows?    
 > Use a cowculator!
 
 <br>
 
-> Why are adults always moaning?
-
+> Why are adults always moaning?    
 > Because they are groan ups!
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/counting-cows-picture.jpg)
 
 
+<br>
+<br>

@@ -26,3 +26,5 @@ The most exciting part was when the Pokémon trainers became their buddy Pokémo
 
 **Suitable age group:** 7 years and above
 
+<br>
+<br>
