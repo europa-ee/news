@@ -3,7 +3,7 @@ title: Ars magna dna kop jes
 author: Tristan. R
 date: 2020-06-09
 categories:
-  - Puzzle
+  - Puzzles
 tags:
   - Harry Potter
   - anagrams
