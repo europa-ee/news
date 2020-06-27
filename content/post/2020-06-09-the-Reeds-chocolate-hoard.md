@@ -4,7 +4,10 @@ author: Tristan. R
 date: 2020-06-09
 categories:
   - Cookery
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/400px-Chocolate_%28blue_background%29.jpg
 ---
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/400px-Chocolate_%28blue_background%29.jpg)
 
 **Amanda Berlan** works on chocolate so she knows lots of chocolate companies. One of them recently sent her some chocolate that she could not sell because it  was out of date. It was a gigantic box full of boxes of chocolate.
 
