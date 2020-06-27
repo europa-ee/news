@@ -3,7 +3,7 @@ title: Duolingo review
 author: Tristan.R
 date: 2020-06-09
 categories:
-  - Entertainment
+  - Education
 tags:
   - Duolingo
   - languages
