@@ -12,6 +12,8 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/en/e/e5/Pokémon_Detective_Pikachu_teaser_poster.jpg
 ---
 
+![](https://upload.wikimedia.org/wikipedia/en/e/e5/Pokémon_Detective_Pikachu_teaser_poster.jpg)
+
 The film is called **Pokémon Detective Pikachu** directed by Rob Letterman and starring Pokémon character Pikachu.
 
 **Pikachu** is an electric type. He is super cute, he wears a detective hat. He has big ears shaped like eyes but thinner with black spots at the top. He has big red cheeks and everywhere else he is yellow except for his mouth.

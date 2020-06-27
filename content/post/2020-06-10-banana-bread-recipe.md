@@ -10,6 +10,9 @@ tags:
 thumbnail: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_85720_16x9.jpg
 ---
 
+![](https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_85720_16x9.jpg)
+
+
 **Ingredients**
 
 * 285 grams / 10 oz plain flour

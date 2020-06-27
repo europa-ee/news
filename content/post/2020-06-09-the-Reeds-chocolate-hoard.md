@@ -4,6 +4,8 @@ author: Tristan. R
 date: 2020-06-09
 categories:
   - Cookery
+tags:
+  - chocolate
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/400px-Chocolate_%28blue_background%29.jpg
 ---
 

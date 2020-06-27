@@ -4,6 +4,10 @@ author: Alejandro
 date: 2020-06-24
 categories:
   - Headlines
+tags:
+  - sausage dog
+  - bacon
+  - pork chop
 thumbnail: figures/Alejandro.jpg
 ---
 

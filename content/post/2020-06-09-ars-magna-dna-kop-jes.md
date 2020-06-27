@@ -4,6 +4,10 @@ author: Tristan. R
 date: 2020-06-09
 categories:
   - Puzzle
+tags:
+  - Harry Potter
+  - anagrams
+  - jokes
 thumbnail: figures/harry-potter-picture2.jpg
 ---
 

@@ -4,6 +4,10 @@ author: Tristan.R
 date: 2020-06-09
 categories:
   - Entertainment
+tags:
+  - Millenium Falcon
+  - Star Wars
+  - Lego
 thumbnail: figures/falcon.jpg
 ---
 

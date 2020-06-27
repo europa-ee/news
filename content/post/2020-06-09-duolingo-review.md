@@ -4,6 +4,9 @@ author: Tristan.R
 date: 2020-06-09
 categories:
   - Entertainment
+tags:
+  - Duolingo
+  - languages
 thumbnail: figures/duolingo.png
 ---
 
