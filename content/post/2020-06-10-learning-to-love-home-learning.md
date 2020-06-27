@@ -7,10 +7,10 @@ categories:
   - Education
 tags:
   - home learning
-thumbnail: http://www.stbrigidspsballymoney.com/assets/general/2018-LEARNING-AT-HOME/_floatImage/HOME-SCHOOL.JPG
+thumbnail: https://thumbs.dreamstime.com/z/concept-homeschooling-emblem-home-schooling-large-families-vector-illustration-concept-home-schooling-134560052.jpg
 ---
 
-![](http://www.stbrigidspsballymoney.com/assets/general/2018-LEARNING-AT-HOME/_floatImage/HOME-SCHOOL.JPG)
+![](https://thumbs.dreamstime.com/z/concept-homeschooling-emblem-home-schooling-large-families-vector-illustration-concept-home-schooling-134560052.jpg)
 
 In March 2020, the UK government took the bold decision to close all schools in the country, so that people will stay at home and hopefully not many more people will get infected with COVID-19. It has now been two months and they haven't found a vaccine. 
 
