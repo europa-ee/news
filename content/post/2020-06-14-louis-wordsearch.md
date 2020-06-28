@@ -12,4 +12,6 @@ thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figure
 
 ## Have a go at Louis' wordsearch!
 
+Find all the words hidden in this puzzle!
+
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/wordsearch.jpg)
