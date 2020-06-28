@@ -7,10 +7,10 @@ categories:
   - Cookery
 tags:
   - recipe
-thumbnail: https://lh5.googleusercontent.com/h9E6D5CXab6-dYvaoMo7ZSlGKWcTVJAYt0SgXaQwRMcWDjBNWcsDezczwhcdU37wZ04mPZX0z8OEPedHV4I88knGXnL1cHLm8u0d9Pjv
+thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figures/sugarmice.jpg
 ---
 
-![](https://lh5.googleusercontent.com/h9E6D5CXab6-dYvaoMo7ZSlGKWcTVJAYt0SgXaQwRMcWDjBNWcsDezczwhcdU37wZ04mPZX0z8OEPedHV4I88knGXnL1cHLm8u0d9Pjv)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/sugarmice.jpg)
 
 **Traditional Sugar Mice** are often hidden in children’s christmas stockings, by **Father Christmas**! A firm favourite in our household!
 

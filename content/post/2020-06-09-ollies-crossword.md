@@ -7,10 +7,10 @@ categories:
   - Puzzles
 tags:
   - crossword
-thumbnail: https://lh4.googleusercontent.com/4nswVHqhMPbQMIU6Zr5sMwbQ4YiFZzAUONQOzQ3CXUFiLTugO79jFnWuyD30IWJMjcE57KRdRCphqrjA1OgewBScK_-QippTPiBuAxI
+thumbnail: vhttps://raw.githubusercontent.com/europa-ee/news/master/static/figures/crossword.png
 ---
 
-![](https://lh4.googleusercontent.com/4nswVHqhMPbQMIU6Zr5sMwbQ4YiFZzAUONQOzQ3CXUFiLTugO79jFnWuyD30IWJMjcE57KRdRCphqrjA1OgewBScK_-QippTPiBuAxI)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/crossword.png)
 
 ## Clues
 
