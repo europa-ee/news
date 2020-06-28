@@ -6,7 +6,7 @@ slug: learning-to-love-home-learning
 categories:
   - Education
 tags:
-  - home learning
+  - home-learning
 thumbnail: https://www.cdc.gov/coronavirus/2019-ncov/images/COVIDweb_avoidCloseContact_masks_rect-01.png
 ---
 

@@ -6,9 +6,11 @@ slug: harry-potter-top-trumps-match-the-cube-game
 categories:
   - Entertainment
 tags:
-  - Harry Potter
-  - Top Trump
-  - The Cube Game
+  - Harry-Potter
+  - Top-Trump
+  - The-Cube-Game
+  - boardgame
+  - how-to
 thumbnail: https://i.ebayimg.com/images/g/W8IAAOSwoZJdsC0F/s-l640.jpg
 ---
 

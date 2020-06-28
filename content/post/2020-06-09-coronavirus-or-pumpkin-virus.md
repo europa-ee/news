@@ -7,8 +7,8 @@ categories:
   - Headlines
 tags:
   - coronavirus
-  - pumpkin virus
-  - fake news
+  - pumpkin-virus
+  - fake-news
 thumbnail: figures/pumpkin_virus.png
 ---
 

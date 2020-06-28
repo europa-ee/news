@@ -6,7 +6,7 @@ slug: sausage-dog-rescued-using-bacon
 categories:
   - Headlines
 tags:
-  - sausage dog
+  - sausage-dog
   - Floyd
 thumbnail: https://lh3.googleusercontent.com/nKTaJj2q7SF6D6Vk86LNHQFaeGZ6yiWI371GJOPvDRf9ft2FF_2E-0N1sqQW4VvhidZ4Uv4doODRgYV7GfGZr8Y3Tp_wTubDA168w3wfT0hOWFhqJ7Of82NTflqJcdTstlaF98w
 ---
