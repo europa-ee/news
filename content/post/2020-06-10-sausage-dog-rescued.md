@@ -4,7 +4,7 @@ author: Ayman
 date: '2020-06-10'
 slug: sausage-dog-rescued-using-bacon-ayman
 categories:
-  - Headline
+  - Headlines
 tags:
   - sausage-dog
   - bacon
