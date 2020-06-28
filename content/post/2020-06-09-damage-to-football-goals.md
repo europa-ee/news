@@ -5,7 +5,7 @@ date: 2020-06-09
 categories:
   - Sport
 tags:
-  - Europa Titans
+  - Europa-Titans
   - football
 thumbnail: https://europatitansfc.com/wp-content/uploads/2019/08/Screenshot-2019-08-15-at-19.26.10.png
 ---

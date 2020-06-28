@@ -6,7 +6,7 @@ slug: gangsta-granny-review
 categories:
   - Entertainment
 tags:
-  - Gangsta Granny
+  - Gangsta-Granny
   - books
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51Q34nlOLYL.jpg
 ---

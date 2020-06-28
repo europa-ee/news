@@ -6,7 +6,7 @@ categories:
   - Entertainment
 tags:
   - Lego
-  - Star Wars
+  - Star-Wars
 thumbnail: figures/starwars.png
 ---
 

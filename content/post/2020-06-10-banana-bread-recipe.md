@@ -4,9 +4,9 @@ author: Kavarenah Ariana-Guevarra
 date: '2020-06-10'
 slug: banana-bread-recipe
 categories:
-    - Cookery
+  - Cookery
 tags:
-    - banana bread
+  - banana-bread
 thumbnail: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/bananabread_85720_16x9.jpg
 ---
 

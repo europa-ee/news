@@ -6,7 +6,7 @@ slug: learning-to-love-home-learning
 categories:
   - Education
 tags:
-  - home learning
+  - home-learning
 thumbnail: https://media.npr.org/assets/img/2020/03/26/lajohnson-homeschooling-promo_slide-0b66e4c2d20d5c8b0d48f3614a5db705f15be086-s800-c85.jpg
 ---
 

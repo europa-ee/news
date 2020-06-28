@@ -5,9 +5,9 @@ date: 2020-06-09
 categories:
   - Entertainment
 tags:
-  - TV show
-  - game show
-  - musical toilets
+  - TV-show
+  - gameshow
+  - musical-toilets
   - slime
 thumbnail: figures/zac.jpg
 ---

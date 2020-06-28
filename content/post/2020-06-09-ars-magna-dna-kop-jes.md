@@ -5,7 +5,7 @@ date: 2020-06-09
 categories:
   - Puzzles
 tags:
-  - Harry Potter
+  - Harry-Potter
   - anagrams
   - jokes
 thumbnail: figures/harry-potter-picture2.jpg

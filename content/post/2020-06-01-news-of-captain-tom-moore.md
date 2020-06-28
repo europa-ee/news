@@ -6,7 +6,7 @@ slug: news-of-captaim-tom-moore
 categories:
   - Headlines
 tags:
-  - Tom Moore
+  - Tom-Moore
 thumbnail: https://upload.wikimedia.org/wikipedia/en/1/12/Captain_Tom_Moore_fundraising_walk.jpg
 ---
 

@@ -6,7 +6,7 @@ slug: the-upside-of-home-learning
 categories:
   - Education
 tags:
-  - home learning
+  - home-learning
 thumbnail: figures/homeschool2.png
 ---
 

@@ -6,7 +6,8 @@ slug: sticky-sweet-cinnamon-rolls
 categories:
   - Cookery
 tags:
-  - cinnamon rolls
+  - cinnamon-rolls
+  - recipe
 thumbnail: https://webstockreview.net/images600_/1-clipart-cute-18.png
 ---
 

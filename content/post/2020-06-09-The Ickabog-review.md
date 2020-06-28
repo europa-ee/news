@@ -6,9 +6,9 @@ categories:
   - Entertainment
 tags:
   - Ickabog
-  - J.K. Rowling
-  - Lord Spittleworth
-  - Lord Flappoon
+  - J.K.-Rowling
+  - Lord-Spittleworth
+  - Lord-Flappoon
 thumbnail: https://assets.theickabog.com/wp-content/uploads/2020/06/Ickabog_RUS-CHI_878x586_hero2.jpg
 ---
 

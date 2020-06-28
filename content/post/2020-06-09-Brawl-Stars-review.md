@@ -5,8 +5,8 @@ date: 2020-06-09
 categories:
   - Entertainment
 tags:
-  - brawl stars
-  - video game
+  - brawl-stars
+  - video-game
 thumbnail: figures/brawlstars.png
 ---
 
