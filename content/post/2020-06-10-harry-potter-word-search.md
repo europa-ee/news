@@ -16,34 +16,18 @@ thumbnail: figures/wordsearch.png
 
 Search for the following words:
 
-* quiddich
+quiddich | &nbsp; | Slytherin
+:---: | :---: | :---:
+Draco Malfoy | &nbsp; | Harry Potter
+Ollivanders | &nbsp; | Hogwarts
+Avada Kedavra | &nbsp; | Dudly
+occulemacy | &nbsp; | Imperio
+Hermione | &nbsp; | Ron
+ Dumbledore | &nbsp; | Fawkes
+crucio | &nbsp; | Gryffindor
 
-* Draco Malfoy
 
-* Ollivanders
 
-* Avada Kedavra
 
-* occulemacy
 
-* Hermione
 
-* Dumbledore
-
-* crucio
-
-* Slytherin
-
-* Harry Potter
-
-* Hogwarts
-
-* Dudly
-
-* imperio
-
-* Ron
-
-* Fawkes
-
-* Gryffindor
