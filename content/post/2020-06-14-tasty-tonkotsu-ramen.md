@@ -11,7 +11,7 @@ tags:
 thumbnail: https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg
 ---
 
-<img src="https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg" width="500" align="center" />
+<img src="https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg" width="400" align="center" />
 
 <!---
 ![](https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg)
