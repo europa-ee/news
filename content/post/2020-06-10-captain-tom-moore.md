@@ -10,7 +10,7 @@ tags:
 thumbnail: https://en.wikipedia.org/wiki/File:Captain_Tom_Moore_fundraising_walk.jpg
 ---
 
-![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/tom_moore.png)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/tom_moore.jpg)
 
 Tom Moore wanted to raise £1000 for the NHS by walking up and down his garden 100 times before his 100th birthday. He was reported on BBC Breakfast and he raised £1 million. By20 April he raised over £20 million and received at least 160000 cards. The Queen sent a birthday telegram.
 
