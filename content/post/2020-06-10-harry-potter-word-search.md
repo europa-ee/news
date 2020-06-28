@@ -16,15 +16,19 @@ thumbnail: figures/wordsearch.png
 
 Search for the following words:
 
-quiddich | &nbsp; | Slytherin
-:---: | :---: | :---:
-Draco Malfoy | &nbsp; | Harry Potter
-Ollivanders | &nbsp; | Hogwarts
-Avada Kedavra | &nbsp; | Dudly
-occulemacy | &nbsp; | Imperio
-Hermione | &nbsp; | Ron
- Dumbledore | &nbsp; | Fawkes
-crucio | &nbsp; | Gryffindor
+quiddich| Slytherin
+:---: | :---:
+**Draco Malfoy** | **Harry Potter**
+**Ollivanders** | **Hogwarts**
+**Avada Kedavra** | **Dudly**
+**occulemacy** | **imperio**
+**Hermione** | **Ron**
+**Dumbledore** | **Fawkes**
+**crucio** | **Gryffindor**
+
+<hr>
+
+Play this puzzle online at: https://thewordsearch.com/puzzle/1234859/
 
 
 
