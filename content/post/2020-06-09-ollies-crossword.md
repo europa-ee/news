@@ -7,7 +7,7 @@ categories:
   - Puzzles
 tags:
   - crossword
-thumbnail: vhttps://raw.githubusercontent.com/europa-ee/news/master/static/figures/crossword.png
+thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figures/crossword.png
 ---
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/crossword.png)
