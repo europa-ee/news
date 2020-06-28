@@ -7,7 +7,7 @@ categories:
   - Headlines
 tags:
   - Tom Moore
-thumbnail: https://en.wikipedia.org/wiki/File:Captain_Tom_Moore_fundraising_walk.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/en/1/12/Captain_Tom_Moore_fundraising_walk.jpg
 ---
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/tom_moore.jpg)

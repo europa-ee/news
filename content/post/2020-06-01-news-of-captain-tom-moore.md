@@ -1,5 +1,5 @@
 ---
-title: News of Captaim Tom Moore
+title: News of Captain Tom Moore
 author: Ollie
 date: '2020-06-01'
 slug: news-of-captaim-tom-moore
@@ -7,7 +7,7 @@ categories:
   - Headlines
 tags:
   - Tom Moore
-thumbnail: https://en.wikipedia.org/wiki/File:Captain_Tom_Moore_fundraising_walk.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/en/1/12/Captain_Tom_Moore_fundraising_walk.jpg
 ---
 
 ![](https://en.wikipedia.org/wiki/File:Captain_Tom_Moore_fundraising_walk.jpg)
