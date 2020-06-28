@@ -18,14 +18,14 @@ Search for the following words:
 
 &nbsp; | &nbsp; | &nbsp;
 :---: | :---: | :---:
-quiddich | :---: | Slytherin
-Draco Malfoy | :---: | Harry Potter
-Ollivanders | :---: | Hogwarts
-Avada Kedavra | :---: | Dudly
-occulemacy | :---: | Imperio
-Hermione | :---: | Ron
- Dumbledore | :---: | Fawkes
-crucio | :---: | Gryffindor
+quiddich | &nbsp; | Slytherin
+Draco Malfoy | &nbsp; | Harry Potter
+Ollivanders | &nbsp; | Hogwarts
+Avada Kedavra | &nbsp; | Dudly
+occulemacy | &nbsp; | Imperio
+Hermione | &nbsp; | Ron
+ Dumbledore | &nbsp; | Fawkes
+crucio | &nbsp; | Gryffindor
 
 
 
