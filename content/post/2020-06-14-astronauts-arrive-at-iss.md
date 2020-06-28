@@ -15,7 +15,7 @@ Two NASA astronauts successfully dock the Dragon capsule from the Falcon 9 rocke
 
 Space X is the first private company that wants to make going to space and other planets possible for everyone.
 
-![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/iss.jpg)
+<img src="https://raw.githubusercontent.com/europa-ee/news/master/static/figures/iss.jpg" width="400px" />
 
 After the capsule separated the Falcon 9 fell back to earth and landed on a drone ship.
 
