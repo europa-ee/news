@@ -10,4 +10,6 @@ tags:
 thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figures/wordsearch.jpg
 ---
 
+## Have a go at Louis' wordsearch!
+
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/wordsearch.jpg)

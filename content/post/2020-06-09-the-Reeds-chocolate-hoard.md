@@ -9,7 +9,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/400px-Chocolate_%28blue_background%29.jpg
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chocolate_%28blue_background%29.jpg/400px-Chocolate_%28blue_background%29.jpg)
+![](https://lh6.googleusercontent.com/1H9Sdye6hJJSpJhTPszmtCxTVAUkvejk4K3oXaod4kN04H_pOUPuZ6hlrJukj5wzytgLL10YO8zYsG3THPsSA9JQR3wa_0d29oLSrd0PTb2sb8zUiX1vQyc-egBOGBNamNbGQcI)
 
 **Amanda Berlan** works on chocolate so she knows lots of chocolate companies. One of them recently sent her some chocolate that she could not sell because it  was out of date. It was a gigantic box full of boxes of chocolate.
 
