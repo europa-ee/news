@@ -16,7 +16,6 @@ thumbnail: figures/wordsearch.png
 
 Search for the following words:
 
-&nbsp; | &nbsp; | &nbsp;
 :---: | :---: | :---:
 quiddich | &nbsp; | Slytherin
 Draco Malfoy | &nbsp; | Harry Potter
