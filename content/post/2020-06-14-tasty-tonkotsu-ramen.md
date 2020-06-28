@@ -11,11 +11,7 @@ tags:
 thumbnail: https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg
 ---
 
-<img src="https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg" width="400" />
-
-<!---
 ![](https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg)
---->
 
 This is a tasty hot noodle soup that makes your body warm.
 
