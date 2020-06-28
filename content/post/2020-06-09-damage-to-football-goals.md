@@ -3,7 +3,7 @@ title: Damage to football goals
 author: Tristan. R
 date: 2020-06-09
 categories:
-  - Sport
+  - Sports
 tags:
   - Europa-Titans
   - football
