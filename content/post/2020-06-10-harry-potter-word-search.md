@@ -16,8 +16,8 @@ thumbnail: figures/wordsearch.png
 
 Search for the following words:
 
-:---: | :---: | :---:
 quiddich | &nbsp; | Slytherin
+:---: | :---: | :---:
 Draco Malfoy | &nbsp; | Harry Potter
 Ollivanders | &nbsp; | Hogwarts
 Avada Kedavra | &nbsp; | Dudly

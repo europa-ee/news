@@ -1,5 +1,5 @@
 ---
-title: Crossword
+title: Ollie's Crossword
 author: Ollie
 date: '2020-06-09'
 slug: ollies-crossword
@@ -30,7 +30,7 @@ thumbnail: https://lh4.googleusercontent.com/4nswVHqhMPbQMIU6Zr5sMwbQ4YiFZzAUONQ
 
 8. It is water from the sky
 
-9,\. Colourful thing that bees pollinate
+9. Colourful thing that bees pollinate
 
 10. Clue 8 creates this on the ground
 
