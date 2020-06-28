@@ -11,7 +11,7 @@ tags:
 thumbnail: figures/harry-potter-picture2.jpg
 ---
 
-![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/wordsearch.jpg)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/harry_potter_wordsearch.png)
 
 Search for the following words:
 
