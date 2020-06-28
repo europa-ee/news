@@ -8,10 +8,10 @@ categories:
 tags:
   - sausage-dog
   - Floyd
-thumbnail: https://lh3.googleusercontent.com/nKTaJj2q7SF6D6Vk86LNHQFaeGZ6yiWI371GJOPvDRf9ft2FF_2E-0N1sqQW4VvhidZ4Uv4doODRgYV7GfGZr8Y3Tp_wTubDA168w3wfT0hOWFhqJ7Of82NTflqJcdTstlaF98w
+thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figures/floyd.jpg
 ---
 
-![](https://lh3.googleusercontent.com/nKTaJj2q7SF6D6Vk86LNHQFaeGZ6yiWI371GJOPvDRf9ft2FF_2E-0N1sqQW4VvhidZ4Uv4doODRgYV7GfGZr8Y3Tp_wTubDA168w3wfT0hOWFhqJ7Of82NTflqJcdTstlaF98w)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/floyd.jpg)
 
 A 7 month old **miniature dachshund** called **Floyd**, from Middleton Tyas, North Yorkshire was lost for 3 days in bad weather.
 

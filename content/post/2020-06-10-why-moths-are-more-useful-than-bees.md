@@ -8,10 +8,10 @@ categories:
 tags:
   - moths
   - bees
-thumbnail: https://lh6.googleusercontent.com/Jd3Gh-jSrFo9PiLRrAnVLhYZPQxkYfrMtJo-Em5tohMPcyLXbQDDQOKZBS6efNUz-TDQbL5VTplIUgNG1uV_EAcxQpbizByZwAknmvPmPenankhUiUjyScN7uQznxoutmbwohnI
+thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figures/moth.jpg
 ---
 
-![](https://lh6.googleusercontent.com/Jd3Gh-jSrFo9PiLRrAnVLhYZPQxkYfrMtJo-Em5tohMPcyLXbQDDQOKZBS6efNUz-TDQbL5VTplIUgNG1uV_EAcxQpbizByZwAknmvPmPenankhUiUjyScN7uQznxoutmbwohnI)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/moth.jpg)
 
 Some people think moths are not useful. They say that they just fly around and eat clothes, but that's just their opinion. In fact, moths are more useful than Bees.
 
