@@ -12,6 +12,8 @@ thumbnail: https://lh4.googleusercontent.com/4nswVHqhMPbQMIU6Zr5sMwbQ4YiFZzAUONQ
 
 ![](https://lh4.googleusercontent.com/4nswVHqhMPbQMIU6Zr5sMwbQ4YiFZzAUONQOzQ3CXUFiLTugO79jFnWuyD30IWJMjcE57KRdRCphqrjA1OgewBScK_-QippTPiBuAxI)
 
+## Clues
+
 1. You plant this and it grows into a flower
 
 2. A private area of grass attached to a house
@@ -28,7 +30,7 @@ thumbnail: https://lh4.googleusercontent.com/4nswVHqhMPbQMIU6Zr5sMwbQ4YiFZzAUONQ
 
 8. It is water from the sky
 
-9 Colourful thing that bees pollinate
+9,\. Colourful thing that bees pollinate
 
 10. Clue 8 creates this on the ground
 
