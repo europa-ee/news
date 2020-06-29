@@ -9,5 +9,24 @@ As part of a school project in the summer term of 2020 during the COVID-19 pande
 
 Class 3EE journalists' contributions have been put together for the very first online edition of [***The Europa Times***](https://news.europa-ee.org.uk).
 
+This online newspaper is made possible through a **dedicated Class 3EE online news team** trained on how to write their articles into the specific format needed.
+
+* Bosco
+
+* Alejandro
+
+* Kaveh
+
+* Leo
+
+* Tristan
+
+For anyone interested, the tutorials that the online news team went through to be able to create this online newspaper are accessible below:
+
+* Tutorial on **Learning Markdown** [![](https://img.shields.io/badge/Slides-Learning Markdown-1DA1F2?style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown/) [![](https://img.shields.io/badge/PDF-Learning Markdown-006400?style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown.pdf)
+
+* Tutorial on **Publishing Markdown** [![](https://img.shields.io/badge/Slides-Publishing Markdown-1DA1F2?style=for-the-badge)](https://tutorials.europa-ee.org.uk/publishingMarkdown/) [![](https://img.shields.io/badge/PDF-Publishing Markdown-006400?style=for-the-badge)](https://tutorials.europa-ee.org.uk/publishingMarkdown.pdf)
+
+
 <br>
 <br>
