@@ -23,9 +23,13 @@ This online newspaper is made possible through a **dedicated Class 3EE online ne
 
 For anyone interested, the tutorials that the online news team went through to be able to create this online newspaper are accessible below:
 
-* Tutorial on **Learning Markdown** [![](https://img.shields.io/badge/Slides-Learning Markdown-1DA1F2?style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown/) [![](https://img.shields.io/badge/PDF-Learning Markdown-006400?style=for-the-badge)](https://tutorials.europa-ee.org.uk/learningMarkdown.pdf)
+* Tutorial on **Learning Markdown** 
+[ ![](https://img.shields.io/badge/Slides-Learning Markdown-1DA1F2?style=for-the-badge) ](https://tutorials.europa-ee.org.uk/learningMarkdown/) 
+[ ![](https://img.shields.io/badge/PDF-Learning Markdown-006400?style=for-the-badge) ](https://tutorials.europa-ee.org.uk/learningMarkdown.pdf)
 
-* Tutorial on **Publishing Markdown** [![](https://img.shields.io/badge/Slides-Publishing Markdown-1DA1F2?style=for-the-badge)](https://tutorials.europa-ee.org.uk/publishingMarkdown/) [![](https://img.shields.io/badge/PDF-Publishing Markdown-006400?style=for-the-badge)](https://tutorials.europa-ee.org.uk/publishingMarkdown.pdf)
+* Tutorial on **Publishing Markdown** 
+[ ![](https://img.shields.io/badge/Slides-Publishing Markdown-1DA1F2?style=for-the-badge) ](https://tutorials.europa-ee.org.uk/publishingMarkdown/) 
+[ ![](https://img.shields.io/badge/PDF-Publishing Markdown-006400?style=for-the-badge) ](https://tutorials.europa-ee.org.uk/publishingMarkdown.pdf)
 
 
 <br>
