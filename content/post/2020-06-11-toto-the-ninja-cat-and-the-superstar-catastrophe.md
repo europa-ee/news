@@ -6,7 +6,8 @@ slug: toto-the-ninja-cat-and-the-superstar-catastrophe
 categories:
   - Entertainment
 tags:
-  - book-review
+  - books
+  - review
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71Ljfb5JHpL.jpg
 ---
 
