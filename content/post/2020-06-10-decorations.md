@@ -8,7 +8,7 @@ categories:
 tags:
   - llama-rosita
   - centaurs
-thumbnails: https://pm1.narvii.com/6473/1b825c0d626ab1dc392f37c97d392cb2aed55fec_hq.jpg
+thumbnail: https://pm1.narvii.com/6473/1b825c0d626ab1dc392f37c97d392cb2aed55fec_hq.jpg
 ---
 
 
