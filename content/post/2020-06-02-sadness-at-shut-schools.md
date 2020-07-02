@@ -7,10 +7,10 @@ categories:
   - Education
 tags:
   - home-learning
-thumbnail: http://www.brownhills.walsall.sch.uk/wp-content/uploads/2018/07/HomeLearning3.jpg
+thumbnail: https://i2.wp.com/www.oaklands.medway.sch.uk/wp-content/uploads/2016/08/LF-learning-header.jpg
 ---
 
-![](http://www.brownhills.walsall.sch.uk/wp-content/uploads/2018/07/HomeLearning3.jpg)
+![](https://i2.wp.com/www.oaklands.medway.sch.uk/wp-content/uploads/2016/08/LF-learning-header.jpg)
 
 ln March 2020 the Government decided that the schools should be shut down on the 21st of March because of COVID 19. The reason for this decision was the hope that, by keeping everyone at home, less people would get COVID-19. School is still happening, but only at home and teachers are sending work by **Google Classroom**, **Zoom** or **Skype**.
 
