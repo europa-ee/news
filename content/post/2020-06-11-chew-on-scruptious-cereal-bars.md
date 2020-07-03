@@ -1,8 +1,8 @@
 ---
-title: Chew on scruptious cereal bars
+title: Chew on scrumptious cereal bars
 author: Cloudagh Harding
 date: '2020-06-11'
-slug: chew-on-scruptious-cereal-bars
+slug: chew-on-scrumptious-cereal-bars
 categories:
   - Cookery
 tags:
