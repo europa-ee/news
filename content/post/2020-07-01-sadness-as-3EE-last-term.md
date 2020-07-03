@@ -2,8 +2,12 @@
 title: Sadness as class 3EE get to their last term in the 2019/2020 academic year
 author: Alejandro
 date: 2020-07-01
+categories:
+  - Education
+thumbnaila: figures/alejandro2.jpg
 ---
-![](figures/alejandro2.jpg)
+
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/alejandro2.jpg)
 
 Recently, class 3EE’s fun has been coming to an end. Especially when they can’t see each other.
 
@@ -15,4 +19,6 @@ We miss them and wish COVID-19 never existed so we could see each other. But at 
 
 But also, in 4EE Señorita Sofia will still teach us! The teachers still send us work via our gmail and it is fun to do with our parents.
 
+<br>
+<br>
 
