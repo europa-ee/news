@@ -4,7 +4,7 @@ author: Alejandro
 date: 2020-07-01
 categories:
   - Education
-thumbnaila: figures/alejandro2.jpg
+thumbnail: figures/alejandro2.jpg
 ---
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/alejandro2.jpg)
