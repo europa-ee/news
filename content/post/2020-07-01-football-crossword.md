@@ -9,7 +9,7 @@ thumbnail: figures/alejandro3.jpg
 
 ![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/alejandro3.jpg)
 
-Solve this football crossword from Alehandro.
+Solve this football crossword from Alejandro.
 
 <br>
 <br>
