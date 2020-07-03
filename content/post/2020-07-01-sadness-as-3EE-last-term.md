@@ -4,10 +4,10 @@ author: Alejandro
 date: 2020-07-01
 categories:
   - Education
-thumbnail: figures/alejandro2.jpg
+thumbnail: figures/Alejandro2.jpg
 ---
 
-![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/alejandro2.jpg)
+![](https://raw.githubusercontent.com/europa-ee/news/master/static/figures/Alejandro2.jpg)
 
 Recently, class 3EE’s fun has been coming to an end. Especially when they can’t see each other.
 
