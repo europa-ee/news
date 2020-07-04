@@ -4,7 +4,7 @@ author: Julia Atienza Miguelez
 date: '2020-06-09'
 slug: julia-s-crossword
 categories:
-  - Headlines
+  - Puzzles
 tags:
   - crossword
 thumbnail: https://raw.githubusercontent.com/europa-ee/news/master/static/figures/crossword.png
